@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@carto/carto-vl": "^0.2.0",
+    "@carto/mapbox-gl": "^0.44.1",
+    "webpack": "^4.5.0"
+  },
+  "scripts": {
+    "build": "webpack-cli --mode=development"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.14"
+  }
+}
