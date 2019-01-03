@@ -4,8 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@carto/carto-vl": "^0.2.0",
-    "@carto/mapbox-gl": "^0.44.1",
+    "@carto/carto-vl": "^1.0.0",
+    "mapbox-gl": "^0.50.0",
     "webpack": "^4.5.0"
   },
   "scripts": {

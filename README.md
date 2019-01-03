@@ -12,6 +12,7 @@ If you just want to try with this already configured webpack project just build 
 If you want to replicate this configuration in another project, these are the steps we have followed here:
 
 ### Install CARTO VL
+(>= v1.0.0)
 
     yarn add @carto/carto-vl
 
